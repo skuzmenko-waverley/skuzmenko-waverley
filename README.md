@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sergey Kuzmenko.
+- 👀 I’m interested in music, electronics and exploring the world.
+- 🌱 I’m currently learning testing automation.
+- 📫 skuzmenko@waverleysoftware.com
